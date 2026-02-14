@@ -1,6 +1,6 @@
-# SAT0RU - 呪術廻戦 Visualizer
+# GOJO-SAT0RU - 呪術廻戦 Visualizer
 
-**Created by geniusinsanity** | Powered by **Google Gemini 3**
+**Created by geniusinsanity** | WITH A LITTLE HELP BY **Google Gemini 3**
 
 A real-time, gesture-controlled **Jujutsu Kaisen** Cursed Technique visualizer running directly in your browser. Built with **Three.js** for particle physics and **MediaPipe** for hand tracking.
 
@@ -45,8 +45,8 @@ Experience Satoru Gojo's abilities with interactive particle systems turned on b
 ### Installation
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/geniusinsanity/SAT0RU.git
-    cd SAT0RU
+    git clone https://github.com/geniusinsanity/GOJO-SAT0RU.git
+    cd GOJO-SAT0RU
     ```
 
 2.  **Add Your Own Images**
